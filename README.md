@@ -17,11 +17,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Interests and Hobbies
+
+- 📖 History
+
+- 💻 Computer
+
+- 📺 Animation
+
+<br>
+
+
 ### Tools
 
 [![](https://img.shields.io/badge/iPhone-12-F8F4ED?style=flat-square&logo=apple)](https://www.apple.com/)
 
 [![](https://img.shields.io/badge/MacBook%20Pro%20(M1)-macOS%20Big%20Sur-C0C0C0?style=flat-square&logo=apple)](https://www.apple.com.cn/mac/)
+
 - 🖥️ Dell U2720QM
 - ⌨️ NuPhy Air75
 - 🖱️ Logitech MX Anywhere 3
