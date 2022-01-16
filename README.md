@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-> **One's World, Think Aloud.**
+> One's World, Think Aloud.
 
 ![](https://github.com/ykqmain/ykqmain/blob/main/0.jpg)
 
