@@ -42,9 +42,11 @@ Here are some ideas to get you started:
 ### Technology
 
 **★★★★☆**
+
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org)
 
 **★★★☆☆**
+
 ![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=ffffff)](https://www.oracle.com/java/technologies/downloads/)
 [![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://dev.mysql.com/downloads/)
@@ -53,6 +55,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linuxfoundation.org)
 
 **★★☆☆☆**
+
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
 [![](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=ffffff)](https://www.apache.org)
 [![](https://img.shields.io/badge/Apache-Maven-C71A36?style=flat-square&logo=Apache-Maven&logoColor=ffffff)](https://maven.apache.org)
@@ -64,6 +67,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-R%20Project-276DC3?style=flat-square&logo=R&logoColor=ffffff)](https://www.r-project.org)
 
 **★☆☆☆☆**
+
 [![](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=ffffff)](https://www.rust-lang.org/zh-CN/)
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)](https://developer.mozilla.org/zh-CN/)
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff)](https://developer.mozilla.org/zh-CN/)
