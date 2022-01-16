@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-> 袅袅兮秋风，洞庭波兮木叶下。
+> One's World, Think Aloud.
 
 ![](https://github.com/ykqmain/ykqmain/blob/main/0.jpg)
 
