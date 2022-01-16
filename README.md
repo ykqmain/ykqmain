@@ -48,13 +48,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=ffffff)](https://www.oracle.com/java/technologies/downloads/)
 [![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://dev.mysql.com/downloads/)
-[![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=ffffff)](https://git-scm.com)
 [![](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=ffffff)](https://www.gnu.org/software/bash/)
+[![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=ffffff)](https://git-scm.com)
 [![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linuxfoundation.org)
-[![](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)](https://ubuntu.com)
-[![](https://img.shields.io/badge/Linux-CentOS-262577?style=flat-square&logo=CentOS&logoColor=ffffff)](https://www.centos.org)
-[![](https://img.shields.io/badge/Linux-Debian-A81D33?style=flat-square&logo=Debian&logoColor=ffffff)](https://www.debian.org)
-[![](https://img.shields.io/badge/Linux-deepin-007CFF?style=flat-square&logo=deepin&logoColor=ffffff)](https://www.deepin.org)
 
 **★★☆☆☆**
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
@@ -78,6 +74,12 @@ Here are some ideas to get you started:
 
 
 ### Platform
+
+[![](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)](https://ubuntu.com)
+[![](https://img.shields.io/badge/Linux-CentOS-262577?style=flat-square&logo=CentOS&logoColor=ffffff)](https://www.centos.org)
+[![](https://img.shields.io/badge/Linux-Debian-A81D33?style=flat-square&logo=Debian&logoColor=ffffff)](https://www.debian.org)
+[![](https://img.shields.io/badge/Linux-deepin-007CFF?style=flat-square&logo=deepin&logoColor=ffffff)](https://www.deepin.org)
+[![](https://img.shields.io/badge/-FreeBSD-AB2B28?style=flat-square&logo=FreeBSD&logoColor=ffffff)](https://www.freebsd.org)
 
 [![](https://img.shields.io/badge/Windows-11-0078D6?style=flat-square&logo=windows&logoColor=0078D6)](https://www.microsoft.com/windows/windows-11)
 [![](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/profiles/76561198206430065/)
