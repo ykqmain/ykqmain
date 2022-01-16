@@ -70,13 +70,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
 [![](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=ffffff)](https://www.rust-lang.org/zh-CN/)
 
-[![](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=ffffff)](https://www.apache.org)
-[![](https://img.shields.io/badge/Apache-Maven-C71A36?style=flat-square&logo=Apache-Maven&logoColor=ffffff)](https://maven.apache.org)
-[![](https://img.shields.io/badge/Apache-Tomcat-F8DC75?style=flat-square&logo=Apache-Tomcat&logoColor=ffffff)](https://tomcat.apache.org)
-[![](https://img.shields.io/badge/Apache-Hadoop-66CCFF?style=flat-square&logo=Apache-Hadoop&logoColor=ffffff)](https://hadoop.apache.org)
-[![](https://img.shields.io/badge/Apache-Kafka-231F20?style=flat-square&logo=Apache-Kafka&logoColor=ffffff)](https://kafka.apache.org)
+[![](https://img.shields.io/badge/Apache-Maven%20Tomcat%20Hadoop%20Kafka-D22128?style=flat-square&logo=Apache&logoColor=ffffff)](https://www.apache.org)
 [![](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=ffffff)](https://www.jenkins.io)
-[![](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=NGINX&logoColor=ffffff)](https://nginx.org/en/)
 
 <br>
 
