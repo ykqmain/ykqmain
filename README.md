@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/Editor-Sublime%20Text-FF9800?style=flat-square&logo=Sublime-Text&logoColor=FF9800)](https://www.sublimetext.com)
 [![](https://img.shields.io/badge/IDE-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
+
 <br>
 
 
@@ -52,6 +53,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff)](https://developer.mozilla.org/zh-CN/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff)](https://developer.mozilla.org/zh-CN/)
 [![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/zh-cn/)
+
 <br>
 
 
@@ -64,7 +66,10 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://space.bilibili.com/7216933)
 [![](https://img.shields.io/badge/Douban-007722?style=flat-square&logo=Douban&logoColor=ffffff)](https://douban.com/people/250982855/)
 [![](https://img.shields.io/badge/Discord-Qiuye%236325-5865F2?style=flat-square&logo=Discord&logoColor=5865F2)](https://discord.com)
+
 <br>
 
+
+### Genshin Impact
 
 ![](https://genshin-card.getloli.com/6,26,34,43/189693501.png)
