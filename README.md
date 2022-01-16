@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/iPhone-12-F8F4ED?style=flat-square&logo=apple)](https://www.apple.com/)
 
 [![](https://img.shields.io/badge/macOS-Big%20Sur-C0C0C0?style=flat-square&logo=apple)](https://www.apple.com/macos/big-sur/)
-
 - 🖥️ Dell U2720QM
 - ⌨️ NuPhy Air75
 - 🖱️ Logitech MX Anywhere 3
@@ -37,30 +36,25 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/IDE-Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=2C2255)](https://www.eclipse.org/downloads/packages/)
 [![](https://img.shields.io/badge/IDE-Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=147EFB)](https://developer.apple.com/xcode/)
 
-
 <br>
 
 
 ### Technology
 
 **★★★★☆**
-
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org)
 
 **★★★☆☆**
-
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=ffffff)](https://www.oracle.com/java/technologies/downloads/)
 [![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://dev.mysql.com/downloads/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=ffffff)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linuxfoundation.org/)
 
 **★★☆☆☆**
-
 ![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
 
 **★☆☆☆☆**
-
 [![](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=ffffff)](https://www.rust-lang.org/zh-CN/)
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)](https://developer.mozilla.org/zh-CN/)
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff)](https://developer.mozilla.org/zh-CN/)
