@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
 [![](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=ffffff)](https://www.rust-lang.org/zh-CN/)
 
-[![](https://img.shields.io/badge/Apache-Maven%20Tomcat%20Hadoop%20Kafka-D22128?style=flat-square&logo=Apache&logoColor=ffffff)](https://www.apache.org)
+[![](https://img.shields.io/badge/Apache-Maven%20Tomcat%20Hadoop%20Kafka-D22128?style=flat-square&logo=Apache&logoColor=D22128)](https://www.apache.org)
 [![](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=ffffff)](https://www.jenkins.io)
 
 <br>
