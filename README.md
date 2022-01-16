@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/Editor-Sublime%20Text-FF9800?style=flat-square&logo=Sublime-Text&logoColor=FF9800)](https://www.sublimetext.com)
 
-[![](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/IDE-Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=2C2255)](https://www.eclipse.org/downloads/packages/)
+[![](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com)
+[![](https://img.shields.io/badge/IDE-Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=2C2255)](https://www.eclipse.org)
 [![](https://img.shields.io/badge/IDE-Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=147EFB)](https://developer.apple.com/xcode/)
 
 <br>
@@ -48,23 +48,24 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=ffffff)](https://www.oracle.com/java/technologies/downloads/)
 [![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://dev.mysql.com/downloads/)
-[![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=ffffff)](https://git-scm.com/)
-[![](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=ffffff)](https://git-scm.com/)
-[![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linuxfoundation.org/)
+[![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=ffffff)](https://git-scm.com)
+[![](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=ffffff)](https://www.gnu.org/software/bash/)
+[![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linuxfoundation.org)
 [![](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)](https://ubuntu.com)
 [![](https://img.shields.io/badge/Linux-CentOS-262577?style=flat-square&logo=CentOS&logoColor=ffffff)](https://www.centos.org)
 [![](https://img.shields.io/badge/Linux-Debian-A81D33?style=flat-square&logo=Debian&logoColor=ffffff)](https://www.debian.org)
-[![](https://img.shields.io/badge/Linux-deepin-007CFF?style=flat-square&logo=deepin&logoColor=ffffff)](https://www.deepin.org/zh/)
+[![](https://img.shields.io/badge/Linux-deepin-007CFF?style=flat-square&logo=deepin&logoColor=ffffff)](https://www.deepin.org)
 
 **★★☆☆☆**
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
-![](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=ffffff)
+[![](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=ffffff)](https://www.apache.org)
 [![](https://img.shields.io/badge/Apache-Maven-C71A36?style=flat-square&logo=Apache-Maven&logoColor=ffffff)](https://maven.apache.org)
 [![](https://img.shields.io/badge/Apache-Tomcat-F8DC75?style=flat-square&logo=Apache-Tomcat&logoColor=ffffff)](https://tomcat.apache.org)
 [![](https://img.shields.io/badge/Apache-Hadoop-66CCFF?style=flat-square&logo=Apache-Hadoop&logoColor=ffffff)](https://hadoop.apache.org)
 [![](https://img.shields.io/badge/Apache-Kafka-231F20?style=flat-square&logo=Apache-Kafka&logoColor=ffffff)](https://kafka.apache.org)
+[![](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=ffffff)](https://www.jenkins.io)
 [![](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=NGINX&logoColor=ffffff)](https://nginx.org/en/)
-![](https://img.shields.io/badge/-R%20Project-276DC3?style=flat-square&logo=R&logoColor=ffffff)
+[![](https://img.shields.io/badge/-R%20Project-276DC3?style=flat-square&logo=R&logoColor=ffffff)](https://www.r-project.org)
 
 **★☆☆☆☆**
 [![](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=ffffff)](https://www.rust-lang.org/zh-CN/)
