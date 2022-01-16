@@ -32,23 +32,36 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Browser-Firefox-FF7139?style=flat-square&logo=Firefox&logoColor=FF7139)](https://www.mozilla.org/en-US/firefox/)
 
 [![](https://img.shields.io/badge/Editor-Sublime%20Text-FF9800?style=flat-square&logo=Sublime-Text&logoColor=FF9800)](https://www.sublimetext.com)
-[![](https://img.shields.io/badge/IDE-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
+
+[![](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/IDE-Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=2C2255)](https://www.eclipse.org/downloads/packages/)
+[![](https://img.shields.io/badge/IDE-Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=147EFB)](https://developer.apple.com/xcode/)
+
 
 <br>
 
 
 ### Technology
 
-![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
-![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
+**★★★★☆**
+
+[![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org)
+
+**★★★☆☆**
+
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=ffffff)](https://www.oracle.com/java/technologies/downloads/)
 [![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://dev.mysql.com/downloads/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=ffffff)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linuxfoundation.org/)
 
-[![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org)
-[![](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=ffffff)](https://www.rust-lang.org/zh-CN/)
+**★★☆☆☆**
 
+![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
+![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
+
+**★☆☆☆☆**
+
+[![](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=ffffff)](https://www.rust-lang.org/zh-CN/)
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)](https://developer.mozilla.org/zh-CN/)
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff)](https://developer.mozilla.org/zh-CN/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff)](https://developer.mozilla.org/zh-CN/)
@@ -73,3 +86,4 @@ Here are some ideas to get you started:
 ### Genshin Impact
 
 ![](https://genshin-card.getloli.com/6,26,34,43/189693501.png)
+
