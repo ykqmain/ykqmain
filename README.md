@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-> One's World, Think Aloud.
+> **One's World, Think Aloud.**
 
 ![](https://github.com/ykqmain/ykqmain/blob/main/0.jpg)
 
@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ### Interests and Hobbies
 
-- **📖 History**
+- 📖 History
 
-- **💻 Computer**
+- 💻 Computer
 
-- **📺 Animation**
+- 📺 Animation
 
 <br>
 
