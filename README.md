@@ -45,14 +45,26 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org)
 
 **★★★☆☆**
+![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=ffffff)](https://www.oracle.com/java/technologies/downloads/)
 [![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://dev.mysql.com/downloads/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=ffffff)](https://git-scm.com/)
+[![](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=ffffff)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linuxfoundation.org/)
+[![](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)](https://ubuntu.com)
+[![](https://img.shields.io/badge/Linux-CentOS-262577?style=flat-square&logo=CentOS&logoColor=ffffff)](https://www.centos.org)
+[![](https://img.shields.io/badge/Linux-Debian-A81D33?style=flat-square&logo=Debian&logoColor=ffffff)](https://www.debian.org)
+[![](https://img.shields.io/badge/Linux-deepin-007CFF?style=flat-square&logo=deepin&logoColor=ffffff)](https://www.deepin.org/zh/)
 
 **★★☆☆☆**
-![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
+![](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=ffffff)
+[![](https://img.shields.io/badge/Apache-Maven-C71A36?style=flat-square&logo=Apache-Maven&logoColor=ffffff)](https://maven.apache.org)
+[![](https://img.shields.io/badge/Apache-Tomcat-F8DC75?style=flat-square&logo=Apache-Tomcat&logoColor=ffffff)](https://tomcat.apache.org)
+[![](https://img.shields.io/badge/Apache-Hadoop-66CCFF?style=flat-square&logo=Apache-Hadoop&logoColor=ffffff)](https://hadoop.apache.org)
+[![](https://img.shields.io/badge/Apache-Kafka-231F20?style=flat-square&logo=Apache-Kafka&logoColor=ffffff)](https://kafka.apache.org)
+[![](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=NGINX&logoColor=ffffff)](https://nginx.org/en/)
+![](https://img.shields.io/badge/-R%20Project-276DC3?style=flat-square&logo=R&logoColor=ffffff)
 
 **★☆☆☆☆**
 [![](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=ffffff)](https://www.rust-lang.org/zh-CN/)
@@ -72,7 +84,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=ffffff)](https://twitter.com/ykqmain)
 [![](https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://space.bilibili.com/7216933)
 [![](https://img.shields.io/badge/Douban-007722?style=flat-square&logo=Douban&logoColor=ffffff)](https://douban.com/people/250982855/)
-[![](https://img.shields.io/badge/Discord-Qiuye%236325-5865F2?style=flat-square&logo=Discord&logoColor=5865F2)](https://discord.com)
+[![](https://img.shields.io/badge/Discord-Qiuye%236325-5865F2?style=flat-square&logo=Discord&logoColor=ffffff)](https://discord.com)
 
 <br>
 
