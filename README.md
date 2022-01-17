@@ -117,6 +117,13 @@ Here are some ideas to get you started:
 <br>
 
 
+### More
+
+[LIQI](https://blog.ykqmain.com/liqi/)
+
+<br>
+
+
 ### Genshin Impact
 
 ![](https://genshin-card.getloli.com/6,26,34,43/189693501.png)
