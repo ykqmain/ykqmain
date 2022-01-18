@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 - 🖱️ Logitech MX Anywhere 3
 - 🎮 8BitDo Pro 2
 
-[![](https://img.shields.io/badge/-Safari-blue?style=flat-square&logo=Safari&logoColor=000000)](https://www.apple.com/safari/)
-[![](https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=Firefox&logoColor=ffffff)](https://www.mozilla.org/en-US/firefox/)
+[![](https://img.shields.io/badge/Safari-Browser-blue?style=flat-square&logo=Safari&logoColor=000000)](https://www.apple.com/safari/)
+[![](https://img.shields.io/badge/Firefox-Browser-FF7139?style=flat-square&logo=Firefox&logoColor=FF7139)](https://www.mozilla.org/en-US/firefox/)
 
 [![](https://img.shields.io/badge/Sublime-Text-FF9800?style=flat-square&logo=Sublime-Text&logoColor=FF9800)](https://www.sublimetext.com)
 
