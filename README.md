@@ -41,14 +41,14 @@ Here are some ideas to get you started:
 - 🖱️ Logitech MX Anywhere 3
 - 🎮 8BitDo Pro 2
 
-[![](https://img.shields.io/badge/Browser-Safari-blue?style=flat-square&logo=Safari&logoColor=000000)](https://www.apple.com/safari/)
-[![](https://img.shields.io/badge/Browser-Firefox-FF7139?style=flat-square&logo=Firefox&logoColor=FF7139)](https://www.mozilla.org/en-US/firefox/)
+[![](https://img.shields.io/badge/-Safari-blue?style=flat-square&logo=Safari&logoColor=000000)](https://www.apple.com/safari/)
+[![](https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=Firefox&logoColor=ffffff)](https://www.mozilla.org/en-US/firefox/)
 
-[![](https://img.shields.io/badge/Editor-Sublime%20Text-FF9800?style=flat-square&logo=Sublime-Text&logoColor=FF9800)](https://www.sublimetext.com)
+[![](https://img.shields.io/badge/Sublime-Text-FF9800?style=flat-square&logo=Sublime-Text&logoColor=FF9800)](https://www.sublimetext.com)
 
-[![](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com)
-[![](https://img.shields.io/badge/IDE-Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=2C2255)](https://www.eclipse.org)
-[![](https://img.shields.io/badge/IDE-Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=147EFB)](https://developer.apple.com/xcode/)
+[![](https://img.shields.io/badge/VS-Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com)
+[![](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=ffffff)](https://www.eclipse.org)
+[![](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=ffffff)](https://developer.apple.com/xcode/)
 
 <br>
 
@@ -100,10 +100,10 @@ Here are some ideas to get you started:
 
 ### Platform
 
-[![](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)](https://ubuntu.com)
-[![](https://img.shields.io/badge/Linux-CentOS-262577?style=flat-square&logo=CentOS&logoColor=ffffff)](https://www.centos.org)
-[![](https://img.shields.io/badge/Linux-Debian-A81D33?style=flat-square&logo=Debian&logoColor=ffffff)](https://www.debian.org)
-[![](https://img.shields.io/badge/Linux-deepin-007CFF?style=flat-square&logo=deepin&logoColor=ffffff)](https://www.deepin.org)
+[![](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)](https://ubuntu.com)
+[![](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=CentOS&logoColor=ffffff)](https://www.centos.org)
+[![](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=Debian&logoColor=ffffff)](https://www.debian.org)
+[![](https://img.shields.io/badge/-deepin-007CFF?style=flat-square&logo=deepin&logoColor=ffffff)](https://www.deepin.org)
 [![](https://img.shields.io/badge/-FreeBSD-AB2B28?style=flat-square&logo=FreeBSD&logoColor=ffffff)](https://www.freebsd.org)
 
 [![](https://img.shields.io/badge/Windows-11-0078D6?style=flat-square&logo=windows&logoColor=0078D6)](https://www.microsoft.com/windows/windows-11)
