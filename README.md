@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 **★★★★☆**
 
-[![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org)
+[![](https://img.shields.io/badge/Python-3.10-3776AB?style=flat-square&logo=Python&logoColor=3776AB)](https://www.python.org)
 
 
 <br>
@@ -107,12 +107,12 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-FreeBSD-AB2B28?style=flat-square&logo=FreeBSD&logoColor=ffffff)](https://www.freebsd.org)
 
 [![](https://img.shields.io/badge/Windows-11-0078D6?style=flat-square&logo=windows&logoColor=0078D6)](https://www.microsoft.com/windows/windows-11)
-[![](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/profiles/76561198206430065/)
+[![](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/profiles/76561198206430065/)
 
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=ffffff)](https://twitter.com/ykqmain)
-[![](https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://space.bilibili.com/7216933)
-[![](https://img.shields.io/badge/Douban-007722?style=flat-square&logo=Douban&logoColor=ffffff)](https://douban.com/people/250982855/)
-[![](https://img.shields.io/badge/Discord-Qiuye%236325-5865F2?style=flat-square&logo=Discord&logoColor=ffffff)](https://discord.com)
+[![](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=ffffff)](https://twitter.com/ykqmain)
+[![](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://space.bilibili.com/7216933)
+[![](https://img.shields.io/badge/-Douban-007722?style=flat-square&logo=Douban&logoColor=ffffff)](https://douban.com/people/250982855/)
+[![](https://img.shields.io/badge/Discord-Qiuye%236325-5865F2?style=flat-square&logo=Discord&logoColor=5865F2)](https://discord.com)
 
 <br>
 
