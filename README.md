@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-> One's World, Think Aloud.
+> What has been is what will be, and what has been done is what will be done;
 
 ![](https://github.com/ykqmain/ykqmain/blob/main/0.jpg)
 
@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/iPhone-12-F8F4ED?style=flat-square&logo=apple)](https://www.apple.com/)
 
+- 🎧 AirPods 2
+
 [![](https://img.shields.io/badge/MacBook%20Pro%20(M1)-macOS%20Big%20Sur-C0C0C0?style=flat-square&logo=apple)](https://www.apple.com.cn/mac/)
 
 - 🖥️ Dell U2720QM
@@ -55,30 +57,19 @@ Here are some ideas to get you started:
 
 ### Technology
 
-<br>
-
-**★★★★☆**
+<!-- **★★★★☆** -->
 
 [![](https://img.shields.io/badge/Python-3.10-3776AB?style=flat-square&logo=Python&logoColor=3776AB)](https://www.python.org)
 
-
-<br>
-
-**★★★☆☆**
-
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=ffffff)](https://www.oracle.com/java/technologies/downloads/)
+[![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://dev.mysql.com/downloads/)
 [![](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=ffffff)](https://www.gnu.org/software/bash/)
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff)](https://developer.mozilla.org/zh-CN/)
 [![](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=ffffff)](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-[![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://dev.mysql.com/downloads/)
 [![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/zh-cn/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=ffffff)](https://git-scm.com)
 [![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linuxfoundation.org)
-
-<br>
-
-**★★☆☆☆**
 
 ![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
@@ -86,10 +77,6 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/Apache-Maven%20Tomcat%20Hadoop%20Kafka-D22128?style=flat-square&logo=Apache&logoColor=D22128)](https://www.apache.org)
 [![](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=ffffff)](https://www.jenkins.io)
-
-<br>
-
-**★☆☆☆☆**
 
 [![](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=ffffff)](https://www.rust-lang.org/zh-CN/)
 [![](https://img.shields.io/badge/-R%20Project-276DC3?style=flat-square&logo=R&logoColor=ffffff)](https://www.r-project.org)
