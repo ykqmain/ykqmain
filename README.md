@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/VS-Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com)
 [![](https://img.shields.io/badge/Eclipse-IDE-2C2255?style=flat-square&logo=Eclipse&logoColor=2C2255)](https://www.eclipse.org)
-[![](https://img.shields.io/badge/Xcode-Command%20Line%20Tools-147EFB?style=flat-square&logo=Xcode&logoColor=ffffff)](https://developer.apple.com/xcode/)
+[![](https://img.shields.io/badge/Xcode-Command%20Line%20Tools-147EFB?style=flat-square&logo=Xcode&logoColor=147EFB)](https://developer.apple.com/xcode/)
 
 <br>
 
