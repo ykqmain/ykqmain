@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - 🎧 AirPods 2
 
-[![](https://img.shields.io/badge/MacBook%20Pro%20(M1)-macOS%20Big%20Sur-C0C0C0?style=flat-square&logo=apple)](https://www.apple.com.cn/mac/)
+[![](https://img.shields.io/badge/MacBook%20Pro-M1-C0C0C0?style=flat-square&logo=apple)](https://www.apple.com.cn/mac/)
 
 - 🖥️ Dell U2720QM
 - ⌨️ NuPhy Air75
