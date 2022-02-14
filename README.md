@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/iPhone-12-F8F4ED?style=flat-square&logo=apple)](https://www.apple.com/)
 
-- 🎧 AirPods 2
+<!-- - 🎧 AirPods 2 -->
 
 [![](https://img.shields.io/badge/MacBook%20Pro-M1-C0C0C0?style=flat-square&logo=apple)](https://www.apple.com.cn/mac/)
 
