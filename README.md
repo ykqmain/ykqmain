@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Interests and Hobbies
 
-- 📚 History
+- 📚 History & Geography
 
 - 💻 Computer & Programming
 
