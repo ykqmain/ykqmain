@@ -48,7 +48,6 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/Sublime-Text-FF9800?style=flat-square&logo=Sublime-Text&logoColor=FF9800)](https://www.sublimetext.com)
 [![](https://img.shields.io/badge/Xcode-Command%20Line%20Tools-147EFB?style=flat-square&logo=Xcode&logoColor=147EFB)](https://developer.apple.com/xcode/)
-<!-- [![](https://img.shields.io/badge/VS-Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com) -->
 
 <br>
 
@@ -68,12 +67,12 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=ffffff)](https://www.gnu.org/software/bash/)
 [![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linuxfoundation.org)
 
+<!-- 
 ![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)](https://developer.mozilla.org/zh-CN/)
-
 [![](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=ffffff)](https://www.rust-lang.org/zh-CN/)
-[![](https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=deno&logoColor=ffffff)](https://deno.land)
+ -->
 
 [![](https://img.shields.io/badge/Apache-Maven%20Tomcat%20Hadoop%20Kafka-D22128?style=flat-square&logo=Apache&logoColor=D22128)](https://www.apache.org)
 
@@ -90,12 +89,6 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/Windows-11-0078D6?style=flat-square&logo=windows&logoColor=0078D6)](https://www.microsoft.com/windows/windows-11)
 [![](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/profiles/76561198206430065/)
-
-[![](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=ffffff)](https://twitter.com/ykqmain)
-[![](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=ffffff)](https://github.com/ykqmain)
-[![](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://space.bilibili.com/7216933)
-[![](https://img.shields.io/badge/-Douban-007722?style=flat-square&logo=Douban&logoColor=ffffff)](https://douban.com/people/250982855/)
-[![](https://img.shields.io/badge/Discord-Qiuye%236325-5865F2?style=flat-square&logo=Discord&logoColor=5865F2)](https://discord.com)
 
 <br>
 
