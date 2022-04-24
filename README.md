@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 
 -  Magic Trackpad
 - ⌨️ NuPhy Air75
+- 🎮 8BitDo Pro2
 - 🖥️ Dell U2720QM
 
 [![](https://img.shields.io/badge/Safari-Browser-blue?style=flat-square&logo=Safari&logoColor=000000)](https://www.apple.com/safari/)
