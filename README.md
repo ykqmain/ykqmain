@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 -  Magic Trackpad
 - ⌨️ NuPhy Air75
-- 🖱️ Dareu EM901
+- 🖱️ Logitech MX Anywhere3
 - 🎮 8BitDo Pro2
 - 🖥️ Dell U2720QM
 
