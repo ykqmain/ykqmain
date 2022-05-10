@@ -44,6 +44,12 @@ Here are some ideas to get you started:
 - 🎮 8BitDo Pro2
 -  Magic Trackpad
 
+[![](https://img.shields.io/badge/Xbox%20Series%20S-107C10?style=flat-square&logo=Xbox)](https://www.xbox.com/)
+
+[![](https://img.shields.io/badge/Xbox%20Series-S-107C10?style=flat-square&logo=Xbox&logoColor=107C10)](https://www.xbox.com/)
+
+<br>
+
 [![](https://img.shields.io/badge/Safari-Browser-blue?style=flat-square&logo=Safari&logoColor=000000)](https://www.apple.com/safari/)
 [![](https://img.shields.io/badge/Firefox-Browser-FF7139?style=flat-square&logo=Firefox&logoColor=FF7139)](https://www.mozilla.org/en-US/firefox/)
 
