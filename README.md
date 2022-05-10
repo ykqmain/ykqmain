@@ -51,8 +51,10 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Safari-Browser-blue?style=flat-square&logo=Safari&logoColor=000000)](https://www.apple.com/safari/)
 [![](https://img.shields.io/badge/Firefox-Browser-FF7139?style=flat-square&logo=Firefox&logoColor=FF7139)](https://www.mozilla.org/en-US/firefox/)
 
-[![](https://img.shields.io/badge/Xcode-Command%20Line%20Tools-147EFB?style=flat-square&logo=Xcode&logoColor=147EFB)](https://developer.apple.com/xcode/)
 [![](https://img.shields.io/badge/Sublime-Text-FF9800?style=flat-square&logo=Sublime-Text&logoColor=FF9800)](https://www.sublimetext.com)
+[![](https://img.shields.io/badge/Atlassian-Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=0052CC)](https://www.sourcetreeapp.com)
+
+[![](https://img.shields.io/badge/Xcode-Command%20Line%20Tools-147EFB?style=flat-square&logo=Xcode&logoColor=147EFB)](https://developer.apple.com/xcode/)
 
 <br>
 
