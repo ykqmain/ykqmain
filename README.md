@@ -69,7 +69,8 @@ Here are some ideas to get you started:
 <br>
 
 [![](https://img.shields.io/badge/Windows-11-0078D6?style=flat-square&logo=windows&logoColor=0078D6)](https://www.microsoft.com/windows/windows-11)
-[![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linuxfoundation.org)
+[![](https://img.shields.io/badge/Linux-Ubuntu%20CentOS%20Debian%20Deepin-FCC624?style=flat-square&logo=Linux&logoColor=FCC624)](https://www.linuxfoundation.org)
+[![](https://img.shields.io/badge/-FreeBSD-AB2B28?style=flat-square&logo=FreeBSD&logoColor=ffffff)](https://www.freebsd.org)
 
 [![](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/profiles/76561198206430065/)
 
