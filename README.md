@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/MacBook%20Pro-M1-C0C0C0?style=flat-square&logo=apple)](https://www.apple.com.cn/mac/)
 
--  Magic Trackpad
+- 🖥️ Dell U2720QM
 - ⌨️ NuPhy Air75
 - 🖱️ Logitech MX Anywhere3
 - 🎮 8BitDo Pro2
-- 🖥️ Dell U2720QM
+-  Magic Trackpad
 
 [![](https://img.shields.io/badge/Safari-Browser-blue?style=flat-square&logo=Safari&logoColor=000000)](https://www.apple.com/safari/)
 [![](https://img.shields.io/badge/Firefox-Browser-FF7139?style=flat-square&logo=Firefox&logoColor=FF7139)](https://www.mozilla.org/en-US/firefox/)
