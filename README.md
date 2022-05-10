@@ -44,8 +44,6 @@ Here are some ideas to get you started:
 - 🎮 8BitDo Pro2
 -  Magic Trackpad
 
-[![](https://img.shields.io/badge/Xbox%20Series%20S-107C10?style=flat-square&logo=Xbox)](https://www.xbox.com/)
-
 [![](https://img.shields.io/badge/Xbox%20Series-S-107C10?style=flat-square&logo=Xbox&logoColor=107C10)](https://www.xbox.com/)
 
 <br>
