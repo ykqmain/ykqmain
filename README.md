@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 
 - 🖥️ Dell U2720QM
 - ⌨️ NuPhy Air75
+- 🎮 DualSense Wireless Controller
 -  Magic Trackpad
 
 [![](https://img.shields.io/badge/Xbox%20Series-X-107C10?style=flat-square&logo=Xbox&logoColor=107C10)](https://www.xbox.com/)
