@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 - 🖥️ Dell U2720QM
 - ⌨️ NuPhy Air75
-- 🎮 8Bitdo SN30 Pro
+- 🎮 8Bitdo SN30Pro
 -  Magic Trackpad
 
 <br>
