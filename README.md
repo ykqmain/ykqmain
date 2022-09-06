@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 ### More
 
-[LIQI](https://blog.ykqmain.com/liqi/)
+[**<font color="#ffc0cb"><u>myConfig</u></font>**](https://github.com/ykqmain/Config)
 
 <br>
 
