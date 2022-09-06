@@ -34,6 +34,11 @@ Here are some ideas to get you started:
 
 <!-- **★★★★☆** -->
 
+[![](https://img.shields.io/badge/iPhone-13-F8F4ED?style=flat-square&logo=apple)](https://www.apple.com/)
+[![](https://img.shields.io/badge/MacBook%20Pro-M1-c0c0c0?style=flat-square&logo=apple)](https://www.apple.com.cn/mac/)
+
+<br>
+
 [![](https://img.shields.io/badge/Safari-Browser-blue?style=flat-square&logo=Safari&logoColor=000000)](https://www.apple.com/safari/)
 [![](https://img.shields.io/badge/Firefox-Browser-FF7139?style=flat-square&logo=Firefox&logoColor=FF7139)](https://www.mozilla.org/en-US/firefox/)
 
