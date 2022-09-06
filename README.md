@@ -30,27 +30,12 @@ Here are some ideas to get you started:
 <br>
 
 
-### Hardware
-
-[![](https://img.shields.io/badge/iPhone-13-F8F4ED?style=flat-square&logo=apple)](https://www.apple.com/)
-
--  AirPods 2
-
-[![](https://img.shields.io/badge/MacBook%20Pro-M1-c0c0c0?style=flat-square&logo=apple)](https://www.apple.com.cn/mac/)
-
-- 🖥️ Dell U2720QM
-- ⌨️ NuPhy Air75
--  Magic Trackpad
-
-<br>
-
-
-### Software
+### Tool
 
 <!-- **★★★★☆** -->
 
 [![](https://img.shields.io/badge/Safari-Browser-blue?style=flat-square&logo=Safari&logoColor=000000)](https://www.apple.com/safari/)
-[![](https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=Firefox&logoColor=ffffff)](https://www.mozilla.org/en-US/firefox/)
+[![](https://img.shields.io/badge/Firefox-Browser-FF7139?style=flat-square&logo=Firefox&logoColor=FF7139)](https://www.mozilla.org/en-US/firefox/)
 
 [![](https://img.shields.io/badge/Sublime-Text-FF9800?style=flat-square&logo=Sublime-Text&logoColor=FF9800)](https://www.sublimetext.com)
 [![](https://img.shields.io/badge/Python-3.10-3776AB?style=flat-square&logo=Python&logoColor=3776AB)](https://www.python.org)
@@ -64,10 +49,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)](https://developer.mozilla.org/zh-CN/)
 
-<br>
-<!-- 
-[![](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/profiles/76561198206430065/)
- -->
 <br>
 
 
