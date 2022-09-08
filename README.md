@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Firefox-Browser-FF7139?style=flat-square&logo=Firefox&logoColor=FF7139)](https://www.mozilla.org/en-US/firefox/)
 
 [![](https://img.shields.io/badge/Sublime-Text-FF9800?style=flat-square&logo=Sublime-Text&logoColor=FF9800)](https://www.sublimetext.com)
-[![](https://img.shields.io/badge/Python-3.10-3776AB?style=flat-square&logo=Python&logoColor=3776AB)](https://www.python.org)
+[![](https://img.shields.io/badge/Python-3-3776AB?style=flat-square&logo=Python&logoColor=3776AB)](https://www.python.org)
 
 <br>
 
