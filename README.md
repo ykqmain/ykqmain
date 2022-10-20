@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/MacBook%20Pro-M1-c0c0c0?style=flat-square&logo=apple)](https://www.apple.com.cn/mac/)
   * 🖥️ Dell U2720QM
   * ⌨️ NuPhy Air75
-  * 🎮 DualSense
   *  Magic Trackpad
+  * 🎮 DualSense
 
 <br>
 
