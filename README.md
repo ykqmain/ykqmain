@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ### Interests and Hobbies
 
-- 📚 History & Geography
+- 📚 History
 
-- 💻 Computer & Programming
+- 💻 Computer
 
-- 📺 Animation & Reading
+- 📺 Animation
 
 <br>
 
