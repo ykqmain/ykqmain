@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-> What has been is what will be, and what has been done is what will be done;
-
 ![](https://github.com/ykqmain/ykqmain/blob/main/0.jpg)
 
 <!--
