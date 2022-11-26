@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[**<font color="#ffc0cb"><u>myConfig</u></font>**](https://github.com/ykqmain/Config)
+
 ![](https://github.com/ykqmain/ykqmain/blob/main/0.jpg)
 
 <!--
@@ -58,13 +60,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)](https://developer.mozilla.org/zh-CN/)
-
-<br>
-
-
-### More
-
-[**<font color="#ffc0cb"><u>myConfig</u></font>**](https://github.com/ykqmain/Config)
 
 <br>
 
