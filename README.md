@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[**<font color="#ffc0cb"><u>myConfig</u></font>**](https://github.com/ykqmain/Config) (Configuration of software and tools I am using and recommending.)
+[**<font color="#ffc0cb"><u>Configuration</u></font>**](https://github.com/ykqmain/Config) of software and tools I am using and recommending.
 
 ![](https://github.com/ykqmain/ykqmain/blob/main/0.jpg)
 
