@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <!-- **★★★★☆** -->
 
 [![](https://img.shields.io/badge/iPhone-13-F8F4ED?style=flat-square&logo=apple)](https://www.apple.com/)
-    *  AirPods 2
+   *  AirPods 2
 
 [![](https://img.shields.io/badge/MacBook%20Pro-M1-c0c0c0?style=flat-square&logo=apple)](https://www.apple.com.cn/mac/)
    * 🖥️ Dell U2720QM
@@ -58,8 +58,8 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
+[![](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=ffffff)](https://www.gnu.org/software/bash/)
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)](https://developer.mozilla.org/zh-CN/)
-[![](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=Bash&logoColor=ffffff)](https://www.gnu.org/software/bash/)
 
 
 <br>
