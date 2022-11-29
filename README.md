@@ -63,6 +63,8 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)](https://developer.mozilla.org/zh-CN/)
 [![](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=ffffff)](https://www.gnu.org/software/bash/)
 
+[![](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=Windows%2011&logoColor=ffffff)](https://github.com/ykqmain/Config/tree/master/Archive/Windows)
+[![](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=Steam&logoColor=ffffff)](https://store.steampowered.com/)
 <br>
 
 
