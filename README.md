@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)](https://developer.mozilla.org)
 [![](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=ffffff)](https://www.gnu.org/software/bash/)
+[![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=ffffff)](https://git-scm.com)
 
 <br>
 
