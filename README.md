@@ -68,11 +68,12 @@ Here are some ideas to get you started:
 
 <br>
 
-[![](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=Steam&logoColor=ffffff)](https://store.steampowered.com)
+[![](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=Steam&logoColor=ffffff)](https://steamcommunity.com/id/qiufengmuye/)
 [![](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=Windows%2011&logoColor=ffffff)](https://github.com/ykqmain/Config/tree/master/Archive/Windows)
 [![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=ffffff)](https://www.kernel.org)
 [![](https://img.shields.io/badge/-FreeBSD-AB2B28?style=flat-square&logo=FreeBSD&logoColor=ffffff)](https://www.freebsd.org)
 
+[![](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://space.bilibili.com/7216933)
 [![](https://img.shields.io/badge/Discord-null-5865F2?style=flat-square&logo=Discord&logoColor=5865F2)](https://discord.com)
 
 <br>
