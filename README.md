@@ -62,7 +62,6 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Python-3-3776AB?style=flat-square&logo=Python&logoColor=3776AB)](https://www.python.org)
 [![](https://img.shields.io/badge/C++-20-00599C?style=flat-square&logo=cplusplus&logoColor=00599C)](https://www.iso.org/standard/79358.html)
 [![](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=ffffff)](https://github.github.com/gfm/)
-[![](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=ffffff)](https://www.latex-project.org)
 
 [![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff)](https://nodejs.org)
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=ffffff)](https://www.oracle.com/java/technologies/downloads/)
