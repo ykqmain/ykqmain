@@ -68,8 +68,8 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=ffffff)](https://www.apache.org)
 [![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff)](https://nodejs.org)
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)](https://developer.mozilla.org)
-[![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)](https://www.iso.org/standard/79358.html)
 [![](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=Swift&logoColor=ffffff)](https://www.swift.org)
+[![](https://img.shields.io/badge/C++-20-00599C?style=flat-square&logo=cplusplus&logoColor=00599C)](https://www.iso.org/standard/79358.html)
 
 <br>
 
