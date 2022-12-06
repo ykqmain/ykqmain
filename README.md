@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 <br>
 
-[![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)](https://www.iso.org/standard/17782.html)
+[![](https://img.shields.io/badge/ANSI-C-A8B9CC?style=flat-square&logo=c&logoColor=A8B9CC)](https://www.iso.org/standard/17782.html)
 [![](https://img.shields.io/badge/C++-20-00599C?style=flat-square&logo=cplusplus&logoColor=00599C)](https://www.iso.org/standard/79358.html)
 [![](https://img.shields.io/badge/-macOS-silver?style=flat-square&logo=Apple&logoColor=000000)](https://www.apple.com/macos/)
 [![](https://img.shields.io/badge/Safari-Browser-blue?style=flat-square&logo=Safari&logoColor=000000)](https://www.apple.com/safari/)
