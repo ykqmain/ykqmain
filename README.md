@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 <br>
 
 [![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)](https://www.iso.org/standard/17782.html)
+[![](https://img.shields.io/badge/C++-20-00599C?style=flat-square&logo=cplusplus&logoColor=00599C)](https://www.iso.org/standard/79358.html)
 [![](https://img.shields.io/badge/-macOS-silver?style=flat-square&logo=Apple&logoColor=000000)](https://www.apple.com/macos/)
 [![](https://img.shields.io/badge/Safari-Browser-blue?style=flat-square&logo=Safari&logoColor=000000)](https://www.apple.com/safari/)
 [![](https://img.shields.io/badge/Firefox-Browser-FF7139?style=flat-square&logo=Firefox&logoColor=FF7139)](https://www.mozilla.org/en-US/firefox/)
@@ -60,7 +61,7 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/Sublime-Text-FF9800?style=flat-square&logo=Sublime-Text&logoColor=FF9800)](https://www.sublimetext.com)
 [![](https://img.shields.io/badge/Python-3-3776AB?style=flat-square&logo=Python&logoColor=3776AB)](https://www.python.org)
-[![](https://img.shields.io/badge/C++-20-00599C?style=flat-square&logo=cplusplus&logoColor=00599C)](https://www.iso.org/standard/79358.html)
+[![](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=Swift&logoColor=ffffff)](https://www.swift.org)
 [![](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=ffffff)](https://github.github.com/gfm/)
 
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=ffffff)](https://www.oracle.com/java/technologies/downloads/)
@@ -69,7 +70,6 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=ffffff)](https://www.apache.org)
 [![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff)](https://nodejs.org)
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)](https://developer.mozilla.org)
-[![](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=Swift&logoColor=ffffff)](https://www.swift.org)
 
 <br>
 
