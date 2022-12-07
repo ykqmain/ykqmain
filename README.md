@@ -56,6 +56,8 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=ffffff)](https://www.gnu.org/software/bash/)
 [![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=ffffff)](https://git-scm.com)
 [![](https://img.shields.io/badge/-Homebrew-FBB040?style=flat-square&logo=Homebrew&logoColor=ffffff)](https://brew.sh)
+[![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://dev.mysql.com/downloads/)
+[![](https://img.shields.io/badge/-OpenJDK-007396?style=flat-square&logo=OpenJDK&logoColor=ffffff)](https://adoptium.net/zh-CN/temurin/releases/)
 [![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff)](https://nodejs.org)
 [![](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=ffffff)](https://www.apache.org)
 
@@ -65,8 +67,6 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Python-3-3776AB?style=flat-square&logo=Python&logoColor=3776AB)](https://www.python.org)
 [![](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=ffffff)](https://github.github.com/gfm/)
 
-[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=ffffff)](https://www.oracle.com/java/technologies/downloads/)
-[![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://dev.mysql.com/downloads/)
 [![](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=ffffff)](https://www.eclipse.org)
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)](https://developer.mozilla.org)
 [![](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=Swift&logoColor=ffffff)](https://www.swift.org)
