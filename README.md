@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/-macOS-silver?style=flat-square&logo=Apple&logoColor=000000)](https://www.apple.com/macos/)
 [![](https://img.shields.io/badge/ANSI-C-A8B9CC?style=flat-square&logo=c&logoColor=A8B9CC)](https://www.iso.org/standard/17782.html)
-[![](https://img.shields.io/badge/C++-20-00599C?style=flat-square&logo=cplusplus&logoColor=000000)](https://www.iso.org/standard/79358.html)
+[![](https://img.shields.io/badge/C++-20-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)](https://www.iso.org/standard/79358.html)
 [![](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=Swift&logoColor=ffffff)](https://www.swift.org)
 [![](https://img.shields.io/badge/-Safari-blue?style=flat-square&logo=Safari&logoColor=000000)](https://www.apple.com/safari/)
 [![](https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=Firefox&logoColor=ffffff)](https://www.mozilla.org/en-US/firefox/)
