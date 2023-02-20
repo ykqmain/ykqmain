@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 <br>
 
 [![](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://space.bilibili.com/7216933)
-[![](https://img.shields.io/badge/-Douban-2D963D?style=flat-square&logo=Douban&logoColor=ffffff)](https://www.douban.com/people/267567131)
+[![](https://img.shields.io/badge/-Douban-2D963D?style=flat-square&logo=Douban&logoColor=ffffff)](https://www.douban.com/people/267907998)
 [![](https://img.shields.io/badge/Discord-qiufengmuye%230054-5865F2?style=flat-square&logo=Discord&logoColor=5865F2)](https://discord.com)
 
 <br>
