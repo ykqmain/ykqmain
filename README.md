@@ -22,10 +22,7 @@ Here are some ideas to get you started:
 ### Interests and Hobbies
 
 - 📚 History
-
 - 💻 Computer
-
-- 📺 Animation
 
 <br>
 
