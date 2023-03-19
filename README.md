@@ -19,11 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Interests and Hobbies
-
-- 📚 History
-- 💻 Computer
-
 <br>
 
 
