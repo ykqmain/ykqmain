@@ -83,5 +83,5 @@ Here are some ideas to get you started:
 
 ### Genshin Impact
 
-![](https://genshin-card.getloli.com/rand/189693501.png)
+![](https://genshin-card.getloli.com/1/189693501.png)
 
