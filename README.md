@@ -33,7 +33,7 @@ Here are some ideas to get you started:
    *  Studio Display
    *  Magic Keyboard
    *  Magic Trackpad
-   * 🎮 DualSense Wireless Controller
+   * DualSense™ Wireless Controller
 
 <br>
 
