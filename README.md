@@ -2,8 +2,6 @@
 
 [**<font color="#ffc0cb"><u>Configuration</u></font>**](https://github.com/ykqmain/Config) of software and tools I am using and recommending.
 
-![](https://github.com/ykqmain/ykqmain/blob/main/0.jpg)
-
 <!--
 **ykqmain/ykqmain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,9 +18,6 @@ Here are some ideas to get you started:
 -->
 
 <br>
-
-
-### Tools
 
 <!-- **★★★★☆** -->
 
@@ -80,8 +75,5 @@ Here are some ideas to get you started:
 
 <br>
 
-
-### Genshin Impact
-
-![](https://genshin-card.getloli.com/1/189693501.png)
+![](https://github.com/ykqmain/ykqmain/blob/main/0.jpg)
 
