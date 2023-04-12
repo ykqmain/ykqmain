@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <br>
 
 [![](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=Windows%2011&logoColor=ffffff)](https://github.com/ykqmain/Config/tree/master/Archive/Windows)
-[![](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=Steam&logoColor=ffffff)](https://steamcommunity.com/id/qiufengmuye/)
+[![](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=Steam&logoColor=ffffff)](https://steamcommunity.com/id/ykqmain/)
 
 [![](https://img.shields.io/badge/-GNU-A42E2B?style=flat-square&logo=GNU&logoColor=ffffff)](https://www.gnu.org)
 [![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=ffffff)](https://www.kernel.org)
