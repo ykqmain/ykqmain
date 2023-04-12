@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)](https://developer.mozilla.org/zh-CN/)
 [![](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=Swift&logoColor=ffffff)](https://www.swift.org)
 
-<br>
-
 [![](https://img.shields.io/badge/-Safari-blue?style=flat-square&logo=Safari&logoColor=000000)](https://www.apple.com/safari/)
 [![](https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=Firefox&logoColor=ffffff)](https://www.mozilla.org/en-US/firefox/new/)
 [![](https://img.shields.io/badge/-Chromium-4285F4?style=flat-square&logo=googlechrome&logoColor=ffffff)](https://www.chromium.org/chromium-projects/)
+
+<br>
 
 [![](https://img.shields.io/badge/-Terminal-000000?style=flat-square&logo=iTerm2&logoColor=ffffff)](https://support.apple.com/guide/terminal/welcome/mac/)
 [![](https://img.shields.io/badge/-LLVM-262D3A?style=flat-square&logo=LLVM&logoColor=ffffff)](https://llvm.org)
