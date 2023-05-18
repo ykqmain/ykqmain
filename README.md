@@ -60,6 +60,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-OpenJDK-007396?style=flat-square&logo=OpenJDK&logoColor=ffffff)](https://openjdk.org)
 [![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff)](https://nodejs.org/zh-cn/)
 [![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://dev.mysql.com/downloads/)
+[![](https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=FFmpeg&logoColor=ffffff)](https://ffmpeg.org)
 
 [![](https://img.shields.io/badge/Sublime-Text-FF9800?style=flat-square&logo=Sublime-Text&logoColor=FF9800)](https://www.sublimetext.com)
 [![](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=Python&logoColor=3776AB)](https://www.python.org)
