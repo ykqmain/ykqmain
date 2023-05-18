@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=Debian&logoColor=ffffff)](https://www.debian.org)
 [![](https://img.shields.io/badge/-deepin-007CFF?style=flat-square&logo=deepin&logoColor=ffffff)](https://www.deepin.org)
 [![](https://img.shields.io/badge/-FreeBSD-AB2B28?style=flat-square&logo=FreeBSD&logoColor=ffffff)](https://www.freebsd.org)
+[![](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=Windows%2011&logoColor=ffffff)](https://github.com/ykqmain/Config/tree/master/Archive/Windows)
 
 <br>
 
@@ -69,9 +70,6 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://space.bilibili.com/7216933)
 [![](https://img.shields.io/badge/Discord-qiufengmuye-5865F2?style=flat-square&logo=Discord&logoColor=5865F2)](https://discord.com)
-
-[![](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=Steam&logoColor=ffffff)](https://steamcommunity.com/id/ykqmain/)
-[![](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=Windows%2011&logoColor=ffffff)](https://github.com/ykqmain/Config/tree/master/Archive/Windows)
 
 <br>
 
