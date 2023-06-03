@@ -74,6 +74,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=Steam&logoColor=ffffff)](https://steamcommunity.com/id/ykqmain/)
 [![](https://img.shields.io/badge/-Epic-313131?style=flat-square&logo=epicgames&logoColor=ffffff)](https://store.epicgames.com)
 [![](https://img.shields.io/badge/-Nintendo-E60012?style=flat-square&logo=nintendoswitch&logoColor=ffffff)](https://www.nintendo.com)
+[![](https://img.shields.io/badge/-Pokémon-FFCB05?style=flat-square&logo=pokemon&logoColor=000000)](https://www.pokemon.com)
 
 <br>
 
