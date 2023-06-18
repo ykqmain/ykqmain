@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!-- **★★★★☆** -->
 
-[![](https://img.shields.io/badge/MacBook%20Pro-M1-bfbfbf?style=flat-square&logo=apple)](https://www.apple.com/mac/)
+[![](https://img.shields.io/badge/MacBook%20Pro-M1-white?style=flat-square&logo=apple)](https://www.apple.com/mac/)
    *  Studio Display
    *  Magic Keyboard
    *  Magic Trackpad
