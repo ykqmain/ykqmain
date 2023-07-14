@@ -27,7 +27,7 @@ Here are some ideas to get you started:
    *  Magic Trackpad
    * DualSense™ Wireless Controller
 
-[![](https://img.shields.io/badge/iPad-Air%205-F8F4ED?style=flat-square&logo=apple)](https://www.apple.com/ipad/)
+[![](https://img.shields.io/badge/iPad-Air%205-pink?style=flat-square&logo=apple)](https://www.apple.com/ipad/)
    *  Pencil 2
 
 [![](https://img.shields.io/badge/iPhone-13-F8F4ED?style=flat-square&logo=apple)](https://www.apple.com/iphone/)
