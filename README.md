@@ -27,7 +27,10 @@ Here are some ideas to get you started:
    *  Magic Trackpad
    * DualSense™ Wireless Controller
 
-[![](https://img.shields.io/badge/iPhone-13-F8F4ED?style=flat-square&logo=apple)](https://www.apple.com/)
+[![](https://img.shields.io/badge/Apple-Pencil-F8F4ED?style=flat-square&logo=apple)](https://www.apple.com/ipad/)
+   *  Pencil 2
+
+[![](https://img.shields.io/badge/iPhone-13-F8F4ED?style=flat-square&logo=apple)](https://www.apple.com/iphone/)
    *  AirPods 2
 
 [![](https://img.shields.io/badge/Watch-Ultra-FF4F00?style=flat-square&logo=apple)](https://www.apple.com/apple-watch-ultra/)
