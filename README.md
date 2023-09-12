@@ -33,8 +33,6 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/iPhone-13-F8F4ED?style=flat-square&logo=apple)](https://www.apple.com/iphone/)
    *  AirPods 2
 
-[![](https://img.shields.io/badge/Watch-Ultra-FF4F00?style=flat-square&logo=apple)](https://www.apple.com/watch/)
-
 <br>
 
 [![](https://img.shields.io/badge/-macOS-silver?style=flat-square&logo=Apple&logoColor=000000)](https://www.apple.com/macos/)
