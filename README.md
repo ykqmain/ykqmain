@@ -57,6 +57,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Terminal-000000?style=flat-square&logo=iTerm2&logoColor=ffffff)](https://support.apple.com/guide/terminal/welcome/mac/)
 [![](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=ffffff)](https://www.gnu.org/software/bash/)
 [![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=ffffff)](https://git-scm.com)
+[![](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=Vim&logoColor=ffffff)](https://www.vim.org)
 [![](https://img.shields.io/badge/-LLVM-262D3A?style=flat-square&logo=LLVM&logoColor=ffffff)](https://llvm.org)
 [![](https://img.shields.io/badge/-OpenJDK-007396?style=flat-square&logo=OpenJDK&logoColor=ffffff)](https://openjdk.org)
 [![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff)](https://nodejs.org)
