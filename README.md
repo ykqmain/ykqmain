@@ -25,10 +25,13 @@ Here are some ideas to get you started:
    *  Studio Display
    *  Magic Keyboard
    *  Magic Trackpad
-   * DualSense™ Wireless Controller
+   * Sony PlayStation® DualSense™ Wireless Controller
 
 [![](https://img.shields.io/badge/iPhone-15%20Pro-C9C8C3?style=flat-square&logo=apple)](https://www.apple.com/iphone/)
    *  AirPods 2
+
+[![](https://img.shields.io/badge/ILCE-7M4-000000?style=flat-square&logo=sony)](https://electronics.sony.com/imaging/interchangeable-lens-cameras/all-interchangeable-lens-cameras/p/ilce7m4-b)
+   * FE 24-105mm F4 G OSS
 
 <br>
 
