@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 <!-- **★★★★☆** -->
 
 [![](https://img.shields.io/badge/MacBook%20Pro-M1-f8f4ed?style=flat-square&logo=apple)](https://www.apple.com/mac/)
-   *  Studio Display
-   *  Magic Keyboard
-   *  Magic Trackpad
-   * DualSense™ Wireless Controller
+  *  Studio Display
+  *  Magic Keyboard
+  *  Magic Trackpad
+  * DualSense Wireless Controller
 
 [![](https://img.shields.io/badge/iPhone-15%20Pro-C9C8C3?style=flat-square&logo=apple)](https://www.apple.com/iphone/)
-   *  AirPods 2
+  *  AirPods 2
 
 <br>
 
