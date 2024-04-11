@@ -74,6 +74,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Xiaohongshu-FF2442?style=flat-square&logo=xiaohongshu&logoColor=ffffff)](https://www.xiaohongshu.com/user/profile/63f491d3000000000f011645)
 [![](https://img.shields.io/badge/-Douban-2D963D?style=flat-square&logo=douban&logoColor=ffffff)](https://www.douban.com/people/279026783/)
 
+[![](https://img.shields.io/badge/-Twitter-1D9BF0?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/ykqmain)
 [![](https://img.shields.io/badge/Discord-qiufengmuye-5865F2?style=flat-square&logo=Discord&logoColor=5865F2)](https://discord.com)
 [![](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=Steam&logoColor=ffffff)](https://steamcommunity.com/id/ykqmain/)
 
