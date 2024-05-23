@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://dev.mysql.com/downloads/)
 
 [![](https://img.shields.io/badge/Sublime-Text-FF9800?style=flat-square&logo=Sublime-Text&logoColor=FF9800)](https://www.sublimetext.com)
-[![](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=Python&logoColor=3776AB)](https://www.python.org)
+[![](https://img.shields.io/badge/Python-3.14+-3776AB?style=flat-square&logo=Python&logoColor=3776AB)](https://www.python.org)
 [![](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=ffffff)](https://daringfireball.net/projects/markdown/)
 
 <br>
