@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/iPad%20Air-M2-F0ECE8?style=flat-square&logo=apple)](https://www.apple.com/ipad/)
   *  Pencil Pro
 
-[![](https://img.shields.io/badge/iPhone-15%20Pro-f8f4ed?style=flat-square&logo=apple)](https://www.apple.com/iphone/)
+[![](https://img.shields.io/badge/iPhone-15%20Pro-C9C8C3?style=flat-square&logo=apple)](https://www.apple.com/iphone/)
   *  AirPods 2
 
 <br>
