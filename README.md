@@ -21,13 +21,17 @@ Here are some ideas to get you started:
 
 <!-- **★★★★☆** -->
 
-[![](https://img.shields.io/badge/iPhone-15%20Pro-f8f4ed?style=flat-square&logo=apple)](https://www.apple.com/iphone/)
-  *  AirPods 2
+[![](https://img.shields.io/badge/Mac%20mini-f8f4ed?style=flat-square&logo=apple)](https://www.apple.com/mac/)
+  *  Studio Display
+  *  Magic Keyboard
+  *  Magic Trackpad
+  * DualSense Wireless Controller
 
 [![](https://img.shields.io/badge/iPad%20Air-M2-F0ECE8?style=flat-square&logo=apple)](https://www.apple.com/ipad/)
-  *  Apple Pencil Pro
-  *  Magic Keyboard
-  *  Studio Display
+  *  Pencil Pro
+
+[![](https://img.shields.io/badge/iPhone-15%20Pro-f8f4ed?style=flat-square&logo=apple)](https://www.apple.com/iphone/)
+  *  AirPods 2
 
 <br>
 
