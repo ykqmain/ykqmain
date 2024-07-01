@@ -69,7 +69,6 @@ Here are some ideas to get you started:
 
 <br>
 
-[![](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/ykqmain)
 [![](https://img.shields.io/badge/Discord-qiufengmuye-5865F2?style=flat-square&logo=discord&logoColor=5865F2)](https://discord.com)
 
 [![](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/7216933)
