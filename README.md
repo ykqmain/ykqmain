@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   *  Studio Display
   *  Magic Keyboard
   *  Magic Trackpad
-  * DualSense Wireless Controller
+  * DualSense™ Wireless Controller
 
 [![](https://img.shields.io/badge/iPad%20Air-M2-f8f4ed?style=flat-square&logo=apple)](https://www.apple.com/ipad/)
   *  Pencil Pro
@@ -79,6 +79,7 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/Discord-qiufengmuye-5865F2?style=flat-square&logo=discord&logoColor=5865F2)](https://discord.com)
 [![](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=ffffff)](https://store.steampowered.com)
+[![](https://img.shields.io/badge/- PlayStation-003791?style=flat-square&logo=playstation&logoColor=ffffff)](https://store.playstation.com)
 
 <br>
 
