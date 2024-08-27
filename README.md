@@ -22,16 +22,16 @@ Here are some ideas to get you started:
 <!-- **★★★★☆** -->
 
 [![](https://img.shields.io/badge/Mac%20mini-M4-f8f4ed?style=flat-square&logo=apple)](https://www.apple.com/mac/)
-  *  Studio Display
-  *  Magic Keyboard
-  *  Magic Trackpad
-  * DualSense™ Wireless Controller
+    *  Studio Display
+    *  Magic Keyboard
+    *  Magic Trackpad
+    * DualSense™ Wireless Controller
 
 [![](https://img.shields.io/badge/iPad%20Air-M2-f8f4ed?style=flat-square&logo=apple)](https://www.apple.com/ipad/)
-  *  Pencil Pro
+    *  Pencil Pro
 
 [![](https://img.shields.io/badge/iPhone-15%20Pro-f8f4ed?style=flat-square&logo=apple)](https://www.apple.com/iphone/)
-  *  AirPods 2
+    *  AirPods 2
 
 <br>
 
@@ -79,7 +79,6 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/Discord-qiufengmuye-5865F2?style=flat-square&logo=discord&logoColor=5865F2)](https://discord.com)
 [![](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=ffffff)](https://store.steampowered.com)
-[![](https://img.shields.io/badge/-PlayStation-003791?style=flat-square&logo=playstation&logoColor=ffffff)](https://store.playstation.com)
 
 <br>
 
