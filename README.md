@@ -79,7 +79,6 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/Discord-qiufengmuye-5865F2?style=flat-square&logo=discord&logoColor=5865F2)](https://discord.com)
 [![](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=ffffff)](https://store.steampowered.com)
-[![](https://img.shields.io/badge/-Epic-313131?style=flat-square&logo=epicgames&logoColor=ffffff)](https://store.epicgames.com)
 
 <br>
 
