@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/iPhone-15%20Pro-f8f4ed?style=flat-square&logo=apple)](https://www.apple.com/iphone/)
   *  AirPods 2
 
+[![](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=ffffff)](https://store.steampowered.com)
+  * [![](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=Windows%2011&logoColor=ffffff)](https://github.com/ykqmain/Config/tree/master/Archive/Windows)
 <br>
 
 [![](https://img.shields.io/badge/-C90-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)](https://www.iso.org/standard/17782.html)
@@ -42,7 +44,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=Swift&logoColor=ffffff)](https://www.swift.org)
 
 [![](https://img.shields.io/badge/-macOS-silver?style=flat-square&logo=Apple&logoColor=000000)](https://www.apple.com/macos/)
-[![](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=Windows%2011&logoColor=ffffff)](https://github.com/ykqmain/Config/tree/master/Archive/Windows)
+
 [![](https://img.shields.io/badge/-GNU-A42E2B?style=flat-square&logo=GNU&logoColor=ffffff)](https://www.gnu.org)
 [![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=ffffff)](https://www.kernel.org)
 [![](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)](https://ubuntu.com)
@@ -78,7 +80,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Douban-2D963D?style=flat-square&logo=douban&logoColor=ffffff)](https://www.douban.com/people/280877737/)
 
 [![](https://img.shields.io/badge/Discord-qiufengmuye-5865F2?style=flat-square&logo=discord&logoColor=5865F2)](https://discord.com)
-[![](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=ffffff)](https://store.steampowered.com)
+
 
 <br>
 
