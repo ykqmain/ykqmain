@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!-- **★★★★☆** -->
 
-[![](https://img.shields.io/badge/Mac%20mini-M4-f8f4ed?style=flat-square&logo=apple)](https://www.apple.com/mac/)
+[![](https://img.shields.io/badge/Mac%20mini-M4%20[Anna]-f8f4ed?style=flat-square&logo=apple)](https://www.apple.com/mac/)
   *  Studio Display
   *  Magic Keyboard
   *  Magic Trackpad
