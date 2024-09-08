@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/iPhone%2015%20Pro-Nana-f8f4ed?style=flat-square&logo=apple)](https://www.apple.com/iphone/)
   *  AirPods 2
 
-[![](https://img.shields.io/badge/Steam%20Windows-Anne-0078D4?style=flat-square&logo=steam)](https://github.com/ykqmain/Config/blob/master/Archive/Windows/README.md)
+[![](https://img.shields.io/badge/Steam%20Windows-Anne-0078D4?style=flat-square&logo=steam&logoColor=000000))](https://github.com/ykqmain/Config/blob/master/Archive/Windows/README.md)
   * AMD R5 7500F / NVIDIA GeForce RTX 4060 Ti / MSI PRO B650M-B / G-PARTNERS
   * Dell U2720QM / EDIFIER
   * Logi MX Keys Mini / VGN DRAGONFLY F1 MOBA
@@ -69,9 +69,9 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://dev.mysql.com)
 [![](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=ffffff)](https://www.postgresql.org)
 
-[![](https://img.shields.io/badge/Sublime-Text-FF9800?style=flat-square&logo=Sublime-Text&logoColor=FF9800)](https://www.sublimetext.com)
-[![](https://img.shields.io/badge/Python-3.14+-3776AB?style=flat-square&logo=Python&logoColor=3776AB)](https://www.python.org)
-[![](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=ffffff)](https://daringfireball.net/projects/markdown/)
+[![](https://img.shields.io/badge/Sublime-Text-FF9800?style=flat-square&logo=sublimetext&logoColor=FF9800)](https://www.sublimetext.com)
+[![](https://img.shields.io/badge/Python-3.14+-3776AB?style=flat-square&logo=python&logoColor=3776AB)](https://www.python.org)
+[![](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=ffffff)](https://daringfireball.net/projects/markdown/)
 
 <br>
 
