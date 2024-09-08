@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Douban-2D963D?style=flat-square&logo=douban&logoColor=ffffff)](https://www.douban.com/people/280877737/)
 
 [![](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=x&logoColor=ffffff)](https://twitter.com/ykqmain)
-[![](https://img.shields.io/badge/Discord-qiufengmuye-5865F2?style=flat-square&logo=discord&logoColor=5865F2)](https://discord.com)
+[![](https://img.shields.io/badge/Discord-ykqmain-5865F2?style=flat-square&logo=discord&logoColor=5865F2)](https://discord.com)
 
 <br>
 
