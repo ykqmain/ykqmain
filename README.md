@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/iPhone-15%20Pro-f8f4ed?style=flat-square&logo=apple)](https://www.apple.com/iphone/)
   *  AirPods 2
 
-[![](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=ffffff)](https://store.steampowered.com)
-  * [![](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=Windows%2011&logoColor=ffffff)](https://github.com/ykqmain/Config/tree/master/Archive/Windows)
+[![](https://img.shields.io/badge/Windows-Steam-000000?style=flat-square&logo=steam)](https://github.com/ykqmain/Config/tree/master/Archive/Windows)
+
 <br>
 
 [![](https://img.shields.io/badge/-C90-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)](https://www.iso.org/standard/17782.html)
