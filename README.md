@@ -35,8 +35,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Windows-Steam-000000?style=flat-square&logo=steam)](https://github.com/ykqmain/Config/tree/master/Archive/Windows)
   * AMD R5 7500F / NVIDIA GeForce RTX 4060 Ti / MSI PRO B650M-B / G-PARTNERS
   * Dell U2720QM / EDIFIER
-  * Logi MX Keys Mini
-  * VGN DRAGONFLY F1 MOBA
+  * Logi MX Keys Mini / VGN DRAGONFLY F1 MOBA
   * DualSense™ Wireless Controller
 
 <br>
