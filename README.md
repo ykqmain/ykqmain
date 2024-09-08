@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   *  AirPods 2
 
 [![](https://img.shields.io/badge/Windows-Steam-000000?style=flat-square&logo=steam)](https://github.com/ykqmain/Config/tree/master/Archive/Windows)
-  * AMD R5 7500F/NVIDIA GeForce RTX 4060 Ti/MSI PRO B650M-B/
+  * AMD R5 7500F / NVIDIA GeForce RTX 4060 Ti / MSI PRO B650M-B / Crucial 16G / Kingston 1T / G-PARTNERS
 <br>
 
 [![](https://img.shields.io/badge/-C90-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)](https://www.iso.org/standard/17782.html)
