@@ -26,10 +26,10 @@ Here are some ideas to get you started:
   *  Magic Keyboard
   *  Magic Trackpad
 
-[![](https://img.shields.io/badge/iPad%20Air-M2-f8f4ed?style=flat-square&logo=apple)](https://www.apple.com/ipad/)
+[![](https://img.shields.io/badge/iPad%20Air%20M2-Pena-f8f4ed?style=flat-square&logo=apple)](https://www.apple.com/ipad/)
   *  Pencil Pro
 
-[![](https://img.shields.io/badge/iPhone-15%20Pro-f8f4ed?style=flat-square&logo=apple)](https://www.apple.com/iphone/)
+[![](https://img.shields.io/badge/iPhone%2015%20Pro-Nana-f8f4ed?style=flat-square&logo=apple)](https://www.apple.com/iphone/)
   *  AirPods 2
 
 [![](https://img.shields.io/badge/Steam-Windows-0078D4?style=flat-square&logo=steam)](https://github.com/ykqmain/Config/blob/master/Archive/Windows/README.md)
