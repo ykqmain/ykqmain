@@ -79,6 +79,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Douyin-000000?style=flat-square&logo=tiktok&logoColor=ffffff)](https://v.douyin.com/iYPNuxht/)
 [![](https://img.shields.io/badge/-Xiaohongshu-FF2442?style=flat-square&logo=xiaohongshu&logoColor=ffffff)](https://www.xiaohongshu.com/user/profile/63f491d3000000000f011645)
 [![](https://img.shields.io/badge/-Douban-2D963D?style=flat-square&logo=douban&logoColor=ffffff)](https://www.douban.com/people/280877737/)
+[![](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=x&logoColor=ffffff)](https://twitter.com/ykqmain)
 [![](https://img.shields.io/badge/Discord-qiufengmuye-5865F2?style=flat-square&logo=discord&logoColor=5865F2)](https://discord.com)
 
 <br>
