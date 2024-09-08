@@ -25,7 +25,6 @@ Here are some ideas to get you started:
   *  Studio Display
   *  Magic Keyboard
   *  Magic Trackpad
-  * DualSense™ Wireless Controller
 
 [![](https://img.shields.io/badge/iPad%20Air-M2-f8f4ed?style=flat-square&logo=apple)](https://www.apple.com/ipad/)
   *  Pencil Pro
@@ -35,6 +34,11 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/Windows-Steam-000000?style=flat-square&logo=steam)](https://github.com/ykqmain/Config/tree/master/Archive/Windows)
   * AMD R5 7500F / NVIDIA GeForce RTX 4060 Ti / MSI PRO B650M-B / Crucial 16G / Kingston 1T / G-PARTNERS
+  * Dell U2720QM
+  * EDIFIER
+  * Logi MX Keys Mini
+  * VGN DRAGONFLY F1 MOBA
+  * DualSense™ Wireless Controller
 <br>
 
 [![](https://img.shields.io/badge/-C90-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)](https://www.iso.org/standard/17782.html)
