@@ -21,18 +21,18 @@ Here are some ideas to get you started:
 
 <!-- **★★★★☆** -->
 
-[![](https://img.shields.io/badge/Mac%20mini%20M4-Anna-f8f4ed?style=flat-square&logo=apple)](https://www.apple.com/mac/)
+[![](https://img.shields.io/badge/Mac%20mini-M4-f8f4ed?style=flat-square&logo=apple)](https://www.apple.com/mac/)
   *  Studio Display
   *  Magic Keyboard
   *  Magic Trackpad
 
-[![](https://img.shields.io/badge/iPad%20Air%20M2-Pena-f8f4ed?style=flat-square&logo=apple)](https://www.apple.com/ipad/)
+[![](https://img.shields.io/badge/iPad%20Air-M2-f8f4ed?style=flat-square&logo=apple)](https://www.apple.com/ipad/)
   *  Pencil Pro
 
-[![](https://img.shields.io/badge/iPhone%2015%20Pro-Nana-f8f4ed?style=flat-square&logo=apple)](https://www.apple.com/iphone/)
+[![](https://img.shields.io/badge/iPhone-15%20Pro-f8f4ed?style=flat-square&logo=apple)](https://www.apple.com/iphone/)
   *  AirPods 2
 
-[![](https://img.shields.io/badge/Steam-Anne-000000?style=flat-square&logo=steam)](https://github.com/ykqmain/Config/blob/master/Archive/Windows/README.md)
+[![](https://img.shields.io/badge/Steam-Windows-000000?style=flat-square&logo=steam)](https://github.com/ykqmain/Config/blob/master/Archive/Windows/README.md)
   * AMD R5 7500F / NVIDIA GeForce RTX 4060 Ti / MSI PRO B650M-B / G-PARTNERS
   * Dell U2720QM / EDIFIER
   * Logi MX Keys Mini / VGN DRAGONFLY F1 MOBA
