@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   * Logi MX Keys Mini / VGN DRAGONFLY F1 MOBA
   * DualSense™ Wireless Controller
 
-[![](https://img.shields.io/badge/FFALCON-75S585C-skyblue?style=flat-square&logo=falcon)](https://www.tcl.com/cn/zh/leiniaoos)
+[![](https://img.shields.io/badge/FFALCON-75S585C-blue?style=flat-square&logo=falcon&logoColor=ffffff)](https://www.tcl.com/cn/zh/leiniaoos)
 
 <br>
 
