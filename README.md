@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   * Logi MX Keys Mini / VGN DRAGONFLY F1 MOBA
   * DualSense™ Wireless Controller
 
-[![](https://img.shields.io/badge/FFALCON-75S585C-blue?style=flat-square&logo=falcon&logoColor=ffffff)](https://github.com/ykqmain/Config/blob/master/Archive/Television/README.md)
+[![](https://img.shields.io/badge/FFALCON%2075S585C-Android%20TV-blue?style=flat-square&logo=falcon&logoColor=ffffff)](https://github.com/ykqmain/Config/blob/master/Archive/Television/README.md)
 
 <br>
 
