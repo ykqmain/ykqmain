@@ -21,19 +21,6 @@ Here are some ideas to get you started:
 
 <!-- **★★★★☆** -->
 
-[![](https://img.shields.io/badge/Mac%20mini-M4-f8f4ed?style=flat-square&logo=apple)](https://www.apple.com/mac/)
-  *  Studio Display
-  *  Magic Keyboard
-  *  Magic Trackpad
-
-[![](https://img.shields.io/badge/iPad%20Air-M2-f8f4ed?style=flat-square&logo=apple)](https://www.apple.com/ipad/)
-  *  Pencil Pro
-
-[![](https://img.shields.io/badge/iPhone-15%20Pro-f8f4ed?style=flat-square&logo=apple)](https://www.apple.com/iphone/)
-  *  AirPods 2
-
-<br>
-
 [![](https://img.shields.io/badge/Apple-macOS-f8f4ed?style=flat-square&logo=apple)](https://github.com/ykqmain/Config)
 [![](https://img.shields.io/badge/Steam-Windows-000000?style=flat-square&logo=steam)](https://github.com/ykqmain/Config/blob/master/Archive/Windows/README.md)
 [![](https://img.shields.io/badge/TV-Android-34A853?style=flat-square&logo=falcon&logoColor=ffffff)](https://github.com/ykqmain/Config/blob/master/Archive/Television/README.md)
