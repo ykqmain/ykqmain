@@ -32,21 +32,11 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/iPhone-15%20Pro-f8f4ed?style=flat-square&logo=apple)](https://www.apple.com/iphone/)
   *  AirPods 2
 
-[![](https://img.shields.io/badge/Steam-Windows-000000?style=flat-square&logo=steam)](https://github.com/ykqmain/Config/blob/master/Archive/Windows/README.md)
-  * AMD R5 7500F / NVIDIA GeForce RTX 4060 Ti / MSI PRO B650M-B / G-PARTNERS
-  * Dell U2720QM / EDIFIER
-  * Logi MX Keys Mini / VGN DRAGONFLY F1 MOBA
-  * DualSense™ Wireless Controller
-
-[![](https://img.shields.io/badge/FFALCON-Android%20TV-blue?style=flat-square&logo=falcon&logoColor=ffffff)](https://github.com/ykqmain/Config/blob/master/Archive/Television/README.md)
-
 <br>
 
-[![](https://img.shields.io/badge/-C90-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)](https://www.iso.org/standard/17782.html)
-[![](https://img.shields.io/badge/-C++20-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)](https://www.iso.org/standard/79358.html)
-[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=ffffff)](https://www.oracle.com/java/technologies/downloads/)
-[![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)](https://developer.mozilla.org/zh-CN/)
-[![](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=Swift&logoColor=ffffff)](https://www.swift.org)
+[![](https://img.shields.io/badge/Apple-macOS-f8f4ed?style=flat-square&logo=apple)](https://github.com/ykqmain/Config)
+[![](https://img.shields.io/badge/Steam-Windows-000000?style=flat-square&logo=steam)](https://github.com/ykqmain/Config/blob/master/Archive/Windows/README.md)
+[![](https://img.shields.io/badge/FFALCON-Android%20TV-blue?style=flat-square&logo=falcon&logoColor=ffffff)](https://github.com/ykqmain/Config/blob/master/Archive/Television/README.md)
 
 [![](https://img.shields.io/badge/-GNU-A42E2B?style=flat-square&logo=GNU&logoColor=ffffff)](https://www.gnu.org)
 [![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=ffffff)](https://www.kernel.org)
@@ -55,6 +45,12 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=Debian&logoColor=ffffff)](https://www.debian.org)
 [![](https://img.shields.io/badge/-deepin-007CFF?style=flat-square&logo=deepin&logoColor=ffffff)](https://www.deepin.org)
 [![](https://img.shields.io/badge/-FreeBSD-AB2B28?style=flat-square&logo=FreeBSD&logoColor=ffffff)](https://www.freebsd.org)
+
+[![](https://img.shields.io/badge/-C90-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)](https://www.iso.org/standard/17782.html)
+[![](https://img.shields.io/badge/-C++20-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)](https://www.iso.org/standard/79358.html)
+[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=ffffff)](https://www.oracle.com/java/technologies/downloads/)
+[![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)](https://developer.mozilla.org/zh-CN/)
+[![](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=Swift&logoColor=ffffff)](https://www.swift.org)
 
 <br>
 
