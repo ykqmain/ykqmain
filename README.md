@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- **★★★★☆** -->
 
 [![](https://img.shields.io/badge/Apple-macOS-f8f4ed?style=flat-square&logo=apple)](https://github.com/ykqmain/Config)
-[![](https://img.shields.io/badge/Steam-Windows-0078D4?style=flat-square&logo=steam&logoColor=000000)](https://github.com/ykqmain/Config/blob/master/Archive/Windows/README.md)
+[![](https://img.shields.io/badge/Steam-Windows-0078D4?style=flat-square&logo=steam)](https://github.com/ykqmain/Config/blob/master/Archive/Windows/README.md)
 [![](https://img.shields.io/badge/TV-Android-34A853?style=flat-square&logo=falcon&logoColor=blue)](https://github.com/ykqmain/Config/blob/master/Archive/Television/README.md)
 
 [![](https://img.shields.io/badge/-GNU-A42E2B?style=flat-square&logo=GNU&logoColor=ffffff)](https://www.gnu.org)
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/Sublime-Text-FF9800?style=flat-square&logo=sublimetext&logoColor=FF9800)](https://www.sublimetext.com)
 [![](https://img.shields.io/badge/Python-3.14+-3776AB?style=flat-square&logo=python&logoColor=3776AB)](https://www.python.org)
-[![](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=000000)](https://daringfireball.net/projects/markdown/)
+[![](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=ffffff)](https://daringfireball.net/projects/markdown/)
 
 <br>
 
