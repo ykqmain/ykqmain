@@ -32,13 +32,13 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/iPhone-15%20Pro-f8f4ed?style=flat-square&logo=apple)](https://www.apple.com/iphone/)
   *  AirPods 2
 
+[![](https://img.shields.io/badge/FFALCON%2075S585C-Android%20TV-blue?style=flat-square&logo=falcon&logoColor=ffffff)](https://github.com/ykqmain/Config/blob/master/Archive/Television/README.md)
+
 [![](https://img.shields.io/badge/Steam-Windows-000000?style=flat-square&logo=steam)](https://github.com/ykqmain/Config/blob/master/Archive/Windows/README.md)
   * AMD R5 7500F / NVIDIA GeForce RTX 4060 Ti / MSI PRO B650M-B / G-PARTNERS
   * Dell U2720QM / EDIFIER
   * Logi MX Keys Mini / VGN DRAGONFLY F1 MOBA
   * DualSense™ Wireless Controller
-
-[![](https://img.shields.io/badge/FFALCON%2075S585C-Android%20TV-blue?style=flat-square&logo=falcon&logoColor=ffffff)](https://github.com/ykqmain/Config/blob/master/Archive/Television/README.md)
 
 <br>
 
