@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/Sublime-Text-FF9800?style=flat-square&logo=sublimetext&logoColor=FF9800)](https://www.sublimetext.com)
 [![](https://img.shields.io/badge/Python-3.14+-3776AB?style=flat-square&logo=python&logoColor=3776AB)](https://www.python.org)
-[![](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=ffffff)](https://daringfireball.net/projects/markdown/)
+[![](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=000000)](https://daringfireball.net/projects/markdown/)
 
 <br>
 
