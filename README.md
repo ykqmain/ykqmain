@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- **★★★★☆** -->
 
 [![](https://img.shields.io/badge/Apple-macOS-f8f4ed?style=flat-square&logo=apple)](https://github.com/ykqmain/Config)
-[![](https://img.shields.io/badge/Steam-Windows-000000?style=flat-square&logo=steam)](https://github.com/ykqmain/Config/blob/master/Archive/Windows/README.md)
+[![](https://img.shields.io/badge/Steam-Windows-0078D4?style=flat-square&logo=steam)](https://github.com/ykqmain/Config/blob/master/Archive/Windows/README.md)
 [![](https://img.shields.io/badge/TV-Android-34A853?style=flat-square&logo=falcon&logoColor=ffffff)](https://github.com/ykqmain/Config/blob/master/Archive/Television/README.md)
 
 [![](https://img.shields.io/badge/-GNU-A42E2B?style=flat-square&logo=GNU&logoColor=ffffff)](https://www.gnu.org)
