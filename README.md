@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 <br>
 
 [![](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/7216933)
-[![](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/ykqmain)
+[![](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=x&logoColor=ffffff)](https://twitter.com/ykqmain)
 [![](https://img.shields.io/badge/Discord-ykqmain-5865F2?style=flat-square&logo=discord)](https://discord.com)
 
 <br>
