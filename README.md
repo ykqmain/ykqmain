@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/-Safari-006CFF?style=flat-square&logo=safari&logoColor=ffffff)](https://www.apple.com/safari/)
 [![](https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=firefox&logoColor=ffffff)](https://www.mozilla.org/en-US/firefox/all/)
-[![](https://img.shields.io/badge/-Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=ffffff)](https://www.google.com/chrome/)
+[![](https://img.shields.io/badge/-Chromium-4285F4?style=flat-square&logo=googlechrome&logoColor=ffffff)](https://www.chromium.org)
 
 [![](https://img.shields.io/badge/-Terminal-000000?style=flat-square&logo=iTerm2&logoColor=ffffff)](https://support.apple.com/guide/terminal/welcome/mac/)
 [![](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=ffffff)](https://www.gnu.org/software/bash/)
