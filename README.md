@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 
 <br>
 
-[![](https://img.shields.io/badge/-Safari-blue?style=flat-square&logo=Safari&logoColor=ffffff)](https://www.apple.com/safari/)
-[![](https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=Firefox&logoColor=ffffff)](https://www.mozilla.org/en-US/firefox/all/)
+[![](https://img.shields.io/badge/-Safari-006CFF?style=flat-square&logo=safari&logoColor=ffffff)](https://www.apple.com/safari/)
+[![](https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=firefox&logoColor=ffffff)](https://www.mozilla.org/en-US/firefox/all/)
 [![](https://img.shields.io/badge/-Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=ffffff)](https://www.google.com/chrome/)
 
 [![](https://img.shields.io/badge/-Terminal-000000?style=flat-square&logo=iTerm2&logoColor=ffffff)](https://support.apple.com/guide/terminal/welcome/mac/)
