@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=F9F0E1)](https://bun.sh)
 [![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://dev.mysql.com)
 [![](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=ffffff)](https://www.postgresql.org)
+[![](https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=ffffff)](https://ffmpeg.org)
 
 [![](https://img.shields.io/badge/Sublime-Text-FF9800?style=flat-square&logo=sublimetext)](https://www.sublimetext.com)
 [![](https://img.shields.io/badge/Python-3.14+-3776AB?style=flat-square&logo=python)](https://www.python.org)
