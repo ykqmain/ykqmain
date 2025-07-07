@@ -73,6 +73,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=x&logoColor=ffffff)](https://twitter.com/ykqmain)
 [![](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=ffffff)](https://discord.com)
 [![](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=ffffff)](https://store.steampowered.com)
+[![](https://img.shields.io/badge/-Epic-313131?style=flat-square&logo=epicgames&logoColor=ffffff)](https://store.epicgames.com)
 
 <br>
 
