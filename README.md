@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 <br>
 
-[![](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/ykqmain)
+<!-- [![](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/ykqmain) -->
 
 [![](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/7216933)
 [![](https://img.shields.io/badge/-Douyin-000000?style=flat-square&logo=tiktok&logoColor=ffffff)](https://v.douyin.com/ifcVCneL/)
