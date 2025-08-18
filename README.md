@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Douban-2D963D?style=flat-square&logo=douban&logoColor=ffffff)](https://www.douban.com/people/288645443/)
 
 [![](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=x&logoColor=ffffff)](https://twitter.com/ykqmain)
-[![](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=ffffff)](https://www.youtube.com/@ykqmain)
+[![](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=ffffff)](https://www.youtube.com/@qiufengmuye)
 [![](https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=ffffff)](https://www.reddit.com/user/ykqmain/)
 [![](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=ffffff)](https://discord.com)
 
