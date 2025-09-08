@@ -21,10 +21,8 @@ Here are some ideas to get you started:
 
 <!-- **★★★★☆** -->
 
-[![](https://img.shields.io/badge/-macOS-f8f4ed?style=flat-square&logo=apple&logoColor=000000)](
-https://www.apple.com/macos/)
+[![](https://img.shields.io/badge/-macOS-f8f4ed?style=flat-square&logo=apple&logoColor=000000)](https://www.apple.com/macos/)
 [![](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=ffffff)](https://github.com/ykqmain/Config/blob/master/Archive/Windows/README.md)
-[![](https://img.shields.io/badge/-FreeBSD-AB2B28?style=flat-square&logo=FreeBSD&logoColor=ffffff)](https://www.freebsd.org)
 
 [![](https://img.shields.io/badge/-GNU-A42E2B?style=flat-square&logo=GNU&logoColor=ffffff)](https://www.gnu.org)
 [![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=ffffff)](https://www.kernel.org)
@@ -32,6 +30,7 @@ https://www.apple.com/macos/)
 [![](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=CentOS&logoColor=ffffff)](https://www.centos.org)
 [![](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=Debian&logoColor=ffffff)](https://www.debian.org)
 [![](https://img.shields.io/badge/-deepin-007CFF?style=flat-square&logo=deepin&logoColor=ffffff)](https://www.deepin.org)
+[![](https://img.shields.io/badge/-FreeBSD-AB2B28?style=flat-square&logo=FreeBSD&logoColor=ffffff)](https://www.freebsd.org)
 
 [![](https://img.shields.io/badge/-C90-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)](https://www.iso.org/standard/17782.html)
 [![](https://img.shields.io/badge/-C++20-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)](https://www.iso.org/standard/79358.html)
@@ -69,13 +68,12 @@ https://www.apple.com/macos/)
 [![](https://img.shields.io/badge/-Xiaohongshu-FF2442?style=flat-square&logo=xiaohongshu&logoColor=ffffff)](https://www.xiaohongshu.com/user/profile/63f491d3000000000f011645)
 [![](https://img.shields.io/badge/-Douban-2D963D?style=flat-square&logo=douban&logoColor=ffffff)](https://www.douban.com/people/288645443/)
 
-[![](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/ykqmain)
+<!-- [![](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/ykqmain) -->
+
 [![](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=x&logoColor=ffffff)](https://twitter.com/ykqmain)
 [![](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=ffffff)](https://www.youtube.com/@qiufengmuye)
 [![](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=ffffff)](https://discord.com)
-
 [![](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=ffffff)](https://store.steampowered.com)
-[![](https://img.shields.io/badge/-Epic-313131?style=flat-square&logo=epicgames&logoColor=ffffff)](https://store.epicgames.com)
 
 <br>
 
