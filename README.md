@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-macOS-f8f4ed?style=flat-square&logo=apple&logoColor=000000)](https://www.apple.com/macos/)
 [![](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=ffffff)](https://github.com/ykqmain/Config/blob/master/Archive/Windows/README.md)
 [![](https://img.shields.io/badge/-deepin-007CFF?style=flat-square&logo=deepin&logoColor=ffffff)](https://github.com/ykqmain/Config/blob/master/Archive/Linux/README.md)
+[![](https://img.shields.io/badge/-Television-3DDC84?style=flat-square&logo=android&logoColor=ffffff)](https://github.com/ykqmain/Config/blob/master/Archive/TV/README.md)
 
 [![](https://img.shields.io/badge/-GNU-A42E2B?style=flat-square&logo=GNU&logoColor=ffffff)](https://www.gnu.org)
 [![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=ffffff)](https://www.kernel.org)
