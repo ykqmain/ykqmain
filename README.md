@@ -22,19 +22,12 @@ Here are some ideas to get you started:
 <!-- **★★★★☆** -->
 
 [![](https://img.shields.io/badge/-macOS-f8f4ed?style=flat-square&logo=apple&logoColor=000000)](https://github.com/ykqmain/Config)
-[![](https://img.shields.io/badge/-Terminal-000000?style=flat-square&logo=iTerm2&logoColor=ffffff)](https://support.apple.com/guide/terminal/welcome/mac/)
-[![](https://img.shields.io/badge/Sublime-Text-FF9800?style=flat-square&logo=sublimetext)](https://www.sublimetext.com)
+[![](https://img.shields.io/badge/-Terminal-000000?style=flat-square&logo=iTerm2&logoColor=ffffff)](https://github.com/ykqmain/Config/tree/master/Terminal)
+[![](https://img.shields.io/badge/Sublime-Text-FF9800?style=flat-square&logo=sublimetext)](https://github.com/ykqmain/Config/tree/master/Sublime)
 
 [![](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=ffffff)](https://github.com/ykqmain/Config/blob/master/Archive/Windows/README.md)
 [![](https://img.shields.io/badge/-deepin-007CFF?style=flat-square&logo=deepin)](https://github.com/ykqmain/Config/blob/master/Archive/Linux/README.md)
 [![](https://img.shields.io/badge/-Television-3DDC84?style=flat-square&logo=android&logoColor=ffffff)](https://github.com/ykqmain/Config/blob/master/Archive/TV/README.md)
-
-[![](https://img.shields.io/badge/Python-3.14+-3776AB?style=flat-square&logo=python)](https://www.python.org)
-[![](https://img.shields.io/badge/-C90-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)](https://www.iso.org/standard/17782.html)
-[![](https://img.shields.io/badge/-C++20-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)](https://www.iso.org/standard/79358.html)
-[![](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=Swift&logoColor=ffffff)](https://www.swift.org)
-[![](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=ffffff)](https://developer.mozilla.org)
-[![](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=ffffff)](https://daringfireball.net/projects/markdown/)
 
 <br>
 
