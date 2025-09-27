@@ -64,6 +64,5 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)](https://ubuntu.com)
 [![](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=CentOS&logoColor=ffffff)](https://www.centos.org)
 [![](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=Debian&logoColor=ffffff)](https://www.debian.org)
-
 [![](https://img.shields.io/badge/-FreeBSD-AB2B28?style=flat-square&logo=FreeBSD&logoColor=ffffff)](https://www.freebsd.org)
 
