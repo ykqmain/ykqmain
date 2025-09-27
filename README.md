@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- **★★★★☆** -->
 
-[**<font color="#ffc0cb"><u>Configuration</u></font>**](https://github.com/ykqmain/Config) of software and tools I am using and recommending.
+⚙️ [**Configurations**](https://github.com/ykqmain/Config) of the Setup I use & recommend.
 
 [![](https://img.shields.io/badge/-macOS-f8f4ed?style=flat-square&logo=apple&logoColor=000000)](https://github.com/ykqmain/Config)
 [![](https://img.shields.io/badge/-Terminal-000000?style=flat-square&logo=iTerm2&logoColor=ffffff)](https://github.com/ykqmain/Config/tree/master/Terminal)
@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Television-3DDC84?style=flat-square&logo=android&logoColor=ffffff)](https://github.com/ykqmain/Config/blob/master/Archive/TV/README.md)
 
 <br>
+
+
+🛠️ I’m currently using the following **Technologies**.
 
 [![](https://img.shields.io/badge/Python-3.14+-3776AB?style=flat-square&logo=python)](https://www.python.org)
 [![](https://img.shields.io/badge/-C90-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)](https://www.iso.org/standard/17782.html)
@@ -62,4 +65,8 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=Debian&logoColor=ffffff)](https://www.debian.org)
 
 [![](https://img.shields.io/badge/-FreeBSD-AB2B28?style=flat-square&logo=FreeBSD&logoColor=ffffff)](https://www.freebsd.org)
+
+<br>
+
+🌐 [**About Me**](https://ykqmain.net) 
 
