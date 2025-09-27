@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <!-- **★★★★☆** -->
 
+<br>
+
 ⚙️ [**Configurations**](https://github.com/ykqmain/Config) of the Setup I use & recommend.
 
 [![](https://img.shields.io/badge/-macOS-f8f4ed?style=flat-square&logo=apple&logoColor=000000)](https://github.com/ykqmain/Config)
@@ -29,8 +31,7 @@ Here are some ideas to get you started:
 
 <br>
 
-
-🛠️ I’m currently using the following **Technologies**.
+🔨 I’m currently using the following **Technologies**.
 
 [![](https://img.shields.io/badge/Python-3.14+-3776AB?style=flat-square&logo=python)](https://www.python.org)
 [![](https://img.shields.io/badge/-C90-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)](https://www.iso.org/standard/17782.html)
@@ -65,8 +66,4 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=Debian&logoColor=ffffff)](https://www.debian.org)
 
 [![](https://img.shields.io/badge/-FreeBSD-AB2B28?style=flat-square&logo=FreeBSD&logoColor=ffffff)](https://www.freebsd.org)
-
-<br>
-
-🌐 [**About Me**](https://ykqmain.net) 
 
