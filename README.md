@@ -29,9 +29,5 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-deepin-007CFF?style=flat-square&logo=deepin)](https://github.com/ykqmain/Config/blob/master/Archive/Linux/README.md)
 [![](https://img.shields.io/badge/-Television-3DDC84?style=flat-square&logo=android&logoColor=ffffff)](https://github.com/ykqmain/Config/blob/master/Archive/TV/README.md)
 
-<br>
-
-[**About Me**](https://ykqmain.net)
-
 ![](https://github.com/ykqmain/ykqmain/blob/main/bg.png)
 
