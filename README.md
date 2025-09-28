@@ -38,7 +38,9 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-C++20-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)](https://www.iso.org/standard/79358.html)
 [![](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=Swift&logoColor=ffffff)](https://www.swift.org)
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=ffffff)](https://www.oracle.com/java/technologies/downloads/)
+[![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff)](https://developer.mozilla.org)
 [![](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=ffffff)](https://developer.mozilla.org)
+[![](https://img.shields.io/badge/-CSS-663399?style=flat-square&logo=css&logoColor=ffffff)](https://developer.mozilla.org)
 [![](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=ffffff)](https://daringfireball.net/projects/markdown/)
 
 [![](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=ffffff)](https://www.gnu.org/software/bash/)
@@ -46,7 +48,6 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=ffffff)](https://git-scm.com)
 [![](https://img.shields.io/badge/-LLVM-262D3A?style=flat-square&logo=LLVM&logoColor=ffffff)](https://llvm.org)
 [![](https://img.shields.io/badge/-OpenJDK-007396?style=flat-square&logo=OpenJDK&logoColor=ffffff)](https://openjdk.org)
-[![](https://img.shields.io/badge/-Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=ffffff)](https://nodejs.org)
 [![](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=F9F0E1)](https://bun.sh)
 [![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://dev.mysql.com)
 [![](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=ffffff)](https://www.postgresql.org)
