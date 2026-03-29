@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 🔨 I’m currently using the following **Technologies**.
 
 [![](https://img.shields.io/badge/Python-3.14+-3776AB?style=flat-square&logo=python)](https://www.python.org)
+[![](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=Swift&logoColor=ffffff)](https://www.swift.org)
 [![](https://img.shields.io/badge/-C90-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)](https://www.iso.org/standard/17782.html)
 [![](https://img.shields.io/badge/-C++20-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)](https://www.iso.org/standard/79358.html)
-[![](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=Swift&logoColor=ffffff)](https://www.swift.org)
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff)](https://developer.mozilla.org)
 [![](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=ffffff)](https://developer.mozilla.org)
 [![](https://img.shields.io/badge/-CSS-663399?style=flat-square&logo=css&logoColor=ffffff)](https://developer.mozilla.org)
