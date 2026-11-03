@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=ffffff)](https://developer.mozilla.org)
 [![](https://img.shields.io/badge/-CSS-663399?style=flat-square&logo=css&logoColor=ffffff)](https://developer.mozilla.org)
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://www.oracle.com/java/technologies/downloads/)
-[![](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=ffffff)](https://dotnet.microsoft.com/en-us/languages/csharp)
+[![](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=dotnet&logoColor=ffffff)](https://dotnet.microsoft.com/en-us/languages/csharp)
 [![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://go.dev)
 [![](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=ffffff)](https://rust-lang.org)
 [![](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=ffffff)](https://ruby-lang.org)
