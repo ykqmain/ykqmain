@@ -60,6 +60,8 @@ Here are some ideas to get you started:
 
 <br>
 
+🌍 I have used **Browsers** and **Operating Systems**.
+
 [![](https://img.shields.io/badge/-Safari-006CFF?style=flat-square&logo=safari&logoColor=ffffff)](https://www.apple.com/safari/)
 [![](https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=ffffff)](https://www.firefox.com)
 [![](https://img.shields.io/badge/-Thunderbird-0A84FF?style=flat-square&logo=thunderbird&logoColor=ffffff)](https://www.thunderbird.net)
